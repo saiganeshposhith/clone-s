@@ -291,4 +291,8 @@ footer #call {
   .footer div {
     gap: 3px;
   }
+  .hero > :first-child {
+  font-weight: 900;
+  font-size: 24px;
+}
 }
