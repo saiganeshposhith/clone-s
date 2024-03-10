@@ -316,7 +316,6 @@ footer #call {
     max-width: 75vw;
   }
   .faqs {
-    flex-wrap: wrap;
     width: 85vw;
   }
   .main {
